@@ -1,2 +1,2 @@
-# isTouching
-we have made an isTouching algorithm for two rectangles.
+# p5.play-boilerplate
+Boiler plate for p5.play
